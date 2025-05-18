@@ -1,7 +1,14 @@
 # Universidad San Pablo de Guatemala
-## Ejercicio - Módulos y manejo de archivos
+## Ejercicio - Módulos y Manejo de Archivos
 **Erick Daniel Ramirez Divas**
-### Estructura del proyecto
+
+### Instalación
+Antes de ejecutar el proyecto:
+1. Compila el proyecto.
+2. Crea una carpeta llamada `data` dentro de `build/src/`.
+3. Mueve el archivo `src/data/calificaciones.txt` a `build/src/data/calificaciones.txt`.
+
+### Estructura del Proyecto
 <pre>
 /src
 │
